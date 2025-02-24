@@ -48,18 +48,7 @@ This project enables an autonomous **Tuctuc** vehicle to be controlled via an **
   - `0x46` → Move forward
   - `0x44` → Turn left
   - `0x43` → Turn right
-  - `0x40` → Move servo motor
 
-## Usage Instructions
-1. **Power the system on**.
-2. **Point the IR remote at the receiver** and press the corresponding buttons to move the Tuctuc.
-3. **Observe movement and servo responses** to confirm correct functionality.
 
-## Future Improvements
-- Add **speed control** using PWM for smoother movement.
-- Implement **obstacle detection** with ultrasonic sensors.
-- Enable **autonomous navigation** using sensor fusion techniques.
 
-## License
-This project is **open-source** under the **MIT License**. See [LICENSE](LICENSE) for details.
 
